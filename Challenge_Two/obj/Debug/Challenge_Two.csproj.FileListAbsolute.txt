@@ -1,0 +1,5 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\bin\Debug\Challenge_Two.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\bin\Debug\Challenge_Two.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\obj\Debug\Challenge_Two.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\obj\Debug\Challenge_Two.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\obj\Debug\Challenge_Two.pdb

@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\ClassLibrary1\obj\Debug\Challenge_One.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\ClassLibrary1\obj\Debug\Challenge_One.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
